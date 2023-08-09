@@ -1,10 +1,4 @@
-d4nhpxcfl$7e3vamywkj@8ts#
-$@7crk8samf4we%nvlitdu3y#
-@uri7sp4l8chetym$#kxv3jwa
-u7$rjxcplnyvetsiafmdw43kh
-kensp%c3f8rjl$v@iay74wxhm
-pyert4h8%i3nakcw$@sjfuvxl
-dmeilvycspx$hur78ftjn%3wa
-@uhyspmwcaklf8i3r#nt%$74e
-$p7tjsl@wuxidynm438vhac#f
-mhjwyud3an@$i#tp%7fl4svce
+document.addEventListener("contextmenu", function(event)
+{event.preventDefault();
+alert("우클릭이 불가능한 영역입니다.");
+}, false);
