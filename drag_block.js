@@ -1,5 +1,1 @@
-   var link = 'https://moomul.com';
-      document.addEventListener("contextmenu", function(event){
-   event.preventDefault();
-         alert("우클릭이 감지되었습니다.");
-}, false);
+44015CE15EE53156B147069FD248F48685793EB10762B661FD3F0AE121B72E349C37D612139A966762D8455B6AC5A60870FD9B164DA52929488FFA9AE96B87C4
