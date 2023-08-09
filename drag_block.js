@@ -1,7 +1,5 @@
    var link = 'https://moomul.com';
       document.addEventListener("contextmenu", function(event){
    event.preventDefault();
-   location.href=link;
-   location.replace(link);
-   window.open(link);
+         alert("우클릭이 감지되었습니다.");
 }, false);
